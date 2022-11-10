@@ -1,0 +1,116 @@
+[
+    {
+        "category": "Longitud",
+        "unit": "Kilometros",
+        "factor": 1,
+        "increment": 0
+    },
+    {
+        "category": "Longitud",
+        "unit": "Metros",
+        "factor": 1000,
+        "increment": 0
+    },
+    {
+        "category": "Longitud",
+        "unit": "Centimetros",
+        "factor": 100000,
+        "increment": 0
+    },
+    {
+        "category": "Longitud",
+        "unit": "Milimetros",
+        "factor": 1000000,
+        "increment": 0
+    },
+    {
+        "category": "Longitud",
+        "unit": "Millas",
+        "factor": 0.621371,
+        "increment": 0
+    },
+    {
+        "category": "Longitud",
+        "unit": "Yardas",
+        "factor": 1093.61,
+        "increment": 0
+    },
+    {
+        "category": "Longitud",
+        "unit": "Pies",
+        "factor": 3280.84,
+        "increment": 0
+    },
+    {
+        "category": "Longitud",
+        "unit": "Pulgadas",
+        "factor": 39370.1,
+        "increment": 0
+    },
+    {
+        "category": "Peso",
+        "unit": "Kilogramos",
+        "factor": 1,
+        "increment": 0
+    },
+    {
+        "category": "Peso",
+        "unit": "Gramos",
+        "factor": 1000,
+        "increment": 0
+    },
+    {
+        "category": "Peso",
+        "unit": "Miligramos",
+        "factor": 1000000,
+        "increment": 0
+    },
+    {
+        "category": "Peso",
+        "unit": "Libras",
+        "factor": 2.20462,
+        "increment": 0
+    },
+    {
+        "category": "Peso",
+        "unit": "Onzas",
+        "factor": 35.274,
+        "increment": 0
+    },
+    {
+        "category": "Temperatura",
+        "unit": "Celsius",
+        "factor": 1,
+        "increment": 0
+    },
+    {
+        "category": "Temperatura",
+        "unit": "Fahrenheit",
+        "factor": 0.55555555555,
+        "increment": 32
+    },
+    {
+        "category": "Temperatura",
+        "unit": "Kelvin",
+        "factor": 1,
+        "increment": 273.15
+    },
+    {
+        "category": "Velocidad",
+        "unit": "Kilometros por hora",
+        "factor": 1,
+        "increment": 0
+    },
+    {
+        "category": "Velocidad",
+        "unit": "Metros por segundo",
+        "factor": 0.2778,
+        "increment": 0
+    },
+    {
+        "category": "Velocidad",
+        "unit": "Millas por hora",
+        "factor": 0.621371,
+        "increment": 0
+    }
+]

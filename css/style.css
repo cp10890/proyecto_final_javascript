@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Roboto', sans-serif;
+    background-color: #3766ff;
+    color: white;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+
+}
+body div{
+    margin: 20px;
+    text-align: center;
+}
+select{
+    margin: 10px;
+}
+input{
+    text-align: center;
+    padding: 10px;
+}
